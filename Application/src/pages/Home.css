@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    color: white;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.oftheday {
+    background-image: url("https://wallpapers.com/images/hd/himalaya-pictures-1ao4uzjrpjn0nhi8.jpg");
+    background-size: cover;
+    background-position: center;
+}
